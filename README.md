@@ -1,6 +1,9 @@
 ### Hello, my name is Vasiliy
 
-I'm currently studying at programming school 21 for backend developer.
+[Russian CV - Резюме на русском](./misc/Backend.pdf)
+
+I am a beginner backend developer. Previously, I studied front-end development on my own. I have experience in freelancing. 
+I like fast and beautiful sites, I want to create such ones.
 <!--
 **DrVeles/drveles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
