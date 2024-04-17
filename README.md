@@ -2,7 +2,8 @@
 
 [Russian CV - Резюме на русском](./misc/Backend.pdf)
 
-I am a beginner backend developer.Previously, I studied front-end development on my own. I have experience in freelancing. 
+I am a beginner backend developer.
+Previously, I studied front-end development on my own. I have experience in freelancing. 
 
 I want to make fast and beautiful websites.
 <!--
