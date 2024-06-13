@@ -1,7 +1,7 @@
 ### Hello, my name is Vasiliy
 
 I am a backend developer.
-Previously, I studied front-end development on my own. I have experience in freelancing. 
+Previously, I studied front-end development on my own. I have experience in freelancing. <br>
 I am looking for a job in a promising company where there are opportunities for professional development and career growth.
 
 I want to make fast and beautiful services.
