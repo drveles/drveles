@@ -1,4 +1,4 @@
-## Vasilii Frolov
+## Hi there, I'm Vasilii ✌️
 ### About me
 ⚡ Looking for a job as a python backend developer. <br>
 🎓 Pursuing a Bachelor's degree in AI and Data Analytics at Moscow Witte University. <br>
