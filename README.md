@@ -1,4 +1,4 @@
-## Hi there, I'm Vasilii ✌️
+## Hi there ✌️
 ### About me
 ⚡ Looking for a job as a python backend developer. <br>
 🎓 Pursuing a Bachelor's degree in AI and Data Analytics at Moscow Witte University. <br>
@@ -8,7 +8,7 @@
 #### Main stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Rest Api](https://img.shields.io/badge/-Rest%20API-black?style=flat-square&logo=fastapi)
+![Fast Api](https://img.shields.io/badge/-Fast%20API-black?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
@@ -28,6 +28,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Bash](https://img.shields.io/badge/Bash-black?&style=flat-square&logo=gnu-bash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=githubactions&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 <!--
 ### Some of my projects:
