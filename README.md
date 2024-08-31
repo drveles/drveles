@@ -1,11 +1,11 @@
-## Hi there ✌️
-### About me
+<!-- # Hello there, I'm Vasilii ✌️ -->
+## About me 
 ⚡ Looking for a job as a python backend developer. <br>
-🎓 Pursuing a Bachelor's degree in AI and Data Analytics at Moscow Witte University. <br>
+🎓 Pursuing a Bachelor's degree in AI and DS at Moscow Witte University. <br>
 🎓 Also study at School 21 (Ecole 42 by Sber) to become a Python developer. <br>
 🐈 I love cats and photography. <br>
 
-#### Main stack
+### Main stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Fast Api](https://img.shields.io/badge/-Fast%20API-black?style=flat-square&logo=fastapi)
@@ -17,10 +17,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git Flow](https://img.shields.io/badge/-Git%20Flow-black?style=flat-square&logo=git)
 
-<!-- ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) -->
+<!-- ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) -->
 
-#### Additional stack
+### Additional stack
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![QT](https://img.shields.io/badge/-QT-black?style=flat-square&logo=qt)
@@ -30,22 +29,5 @@
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=githubactions&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-<!--
-### Some of my projects:
-🤖 [Campus map bot](https://github.com/drveles-X-zkhrg/campus_map_bot): A bot for quickly finding students on the campus of School 21.<br><br>
-   Stack: `Python`, `Redis`, `Docker`, `CI/CD`, `Linux`, `FastAPI`, `aiogram`, `asyncio`, `requests`.<br>
-
-
-### I'm working on:
--->
-
 <!-- <span style="color: green; font-family: Arial; font-size: auto;">INSPIRATION DAY</span> -->
-
-
-### Check out my projects ↓
-
-
-
-
-
-
+## Check out my projects ↓
