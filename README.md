@@ -30,4 +30,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 <!-- <span style="color: green; font-family: Arial; font-size: auto;">INSPIRATION DAY</span> -->
-### Check out my projects ↓
+## Check out my projects ↓
