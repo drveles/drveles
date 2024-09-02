@@ -1,5 +1,5 @@
 <!-- # Hello there, I'm Vasilii ✌️ -->
-## About me 
+# About me 
 ⚡ Looking for a job as a python backend developer. <br>
 🎓 Pursuing a Bachelor's degree in AI and DS at Moscow Witte University. <br>
 🎓 Also study at School 21 (Ecole 42 by Sber) to become a Python developer. <br>
@@ -30,4 +30,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 <!-- <span style="color: green; font-family: Arial; font-size: auto;">INSPIRATION DAY</span> -->
-# Check out my projects ↓
+## Check out my projects ↓
