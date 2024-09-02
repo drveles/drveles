@@ -5,7 +5,7 @@
 🎓 Also study at School 21 (Ecole 42 by Sber) to become a Python developer. <br>
 🐈 I love cats and photography. <br>
 
-#### Main stack
+### Main stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Fast Api](https://img.shields.io/badge/-Fast%20API-black?style=flat-square&logo=fastapi)
@@ -19,7 +19,7 @@
 
 <!-- ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) -->
 
-#### Additional stack
+### Additional stack
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![QT](https://img.shields.io/badge/-QT-black?style=flat-square&logo=qt)
@@ -30,4 +30,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 <!-- <span style="color: green; font-family: Arial; font-size: auto;">INSPIRATION DAY</span> -->
-## Check out my projects ↓
+## My projects ↓
