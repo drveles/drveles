@@ -7,7 +7,6 @@
 
 ### Main stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Fast Api](https://img.shields.io/badge/-Fast%20API-black?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -23,6 +22,7 @@
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![QT](https://img.shields.io/badge/-QT-black?style=flat-square&logo=qt)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Bash](https://img.shields.io/badge/Bash-black?&style=flat-square&logo=gnu-bash&logoColor=white)
