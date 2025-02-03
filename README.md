@@ -16,7 +16,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git Flow](https://img.shields.io/badge/-Git%20Flow-black?style=flat-square&logo=git)
 
 <!-- ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask) -->
 
@@ -30,6 +29,7 @@
 ![Bash](https://img.shields.io/badge/Bash-black?&style=flat-square&logo=gnu-bash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=githubactions&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git Flow](https://img.shields.io/badge/-Git%20Flow-black?style=flat-square&logo=git)
 
 <!-- <span style="color: green; font-family: Arial; font-size: auto;">INSPIRATION DAY</span> -->
 ### Check out my projects ↓
