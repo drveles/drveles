@@ -8,7 +8,6 @@
 ### Main stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Fast Api](https://img.shields.io/badge/-Fast%20API-black?style=flat-square&logo=fastapi)
-![Fast Api](https://img.shields.io/badge/-Pytest?style=flat-square&logo=pytest)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
